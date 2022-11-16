@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668417763 source:e:\cpp application\contract\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<conio.h>
+	<windows.h>
+
